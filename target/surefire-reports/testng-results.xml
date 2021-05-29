@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="34" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="34" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+      <class name="MavenForJenkins.MVNForJenkins.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:MavenForJenkins.MVNForJenkins.SeleniumTest@eec5a4a]" name="BrowserAUtomation" duration-ms="0" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:MavenForJenkins.MVNForJenkins.SeleniumTest@eec5a4a]" name="elementsUi" duration-ms="0" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- MavenForJenkins.MVNForJenkins.SeleniumTest -->
+      <class name="MavenForJenkins.MVNForJenkins.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:MavenForJenkins.MVNForJenkins.RESTAPITest@210366b4]" name="deleteTwitter" duration-ms="0" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:MavenForJenkins.MVNForJenkins.RESTAPITest@210366b4]" name="postJira" duration-ms="0" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MavenForJenkins.MVNForJenkins.RESTAPITest -->
+      <class name="MavenForJenkins.MVNForJenkins.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:MavenForJenkins.MVNForJenkins.AppiumTest@3108bc]" name="IOSApps" duration-ms="3" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:MavenForJenkins.MVNForJenkins.AppiumTest@3108bc]" name="NativeAPpAndroid" duration-ms="0" started-at="2021-05-29T21:06:28 BST" finished-at="2021-05-29T21:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+      </class> <!-- MavenForJenkins.MVNForJenkins.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
